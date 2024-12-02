@@ -1,5 +1,7 @@
 # CloudQuery Plaid Source Plugin
 
+# DEPRECATED - FOR THE LATEST VERSION OF THIS PLUGIN PLEASE VISIT https://hub.cloudquery.io/plugins/source/cloudquery/plaid/latest/docs
+
 [![test](https://github.com/cloudquery/cq-source-plaid/actions/workflows/test.yml/badge.svg)](https://github.com/cloudquery/cq-source-plaid/actions/workflows/test.yml)
 [![Go Report Card](https://goreportcard.com/badge/github.com/cloudquery/cq-source-plaid)](https://goreportcard.com/report/github.com/cloudquery/cq-source-plaid)
 
